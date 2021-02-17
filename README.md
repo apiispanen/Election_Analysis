@@ -14,6 +14,9 @@ The main purpose of this code is to discover insights into the election, and dis
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- Output location: 'analysis/election_results.txt'
+- For sake of the assignment, ignore the "previous_exercises" folder.
+  
 
 ## Summary
 The analysis of the election show that:
